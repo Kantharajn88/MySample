@@ -1,3 +1,0 @@
-Hi iam learning Git Hub.
-So i need a documents of Git Hub.
-Git is used mainly for save the code in securily.
